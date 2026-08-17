@@ -4,4 +4,3 @@ Tools Used: • Adobe After Effects • Adobe Premiere Pro
 Style: Cyberpunk • Futurism • Neon Aesthetics • Motion Design • Tech Showcase • Digital Innovation 
 Typography: ACE Futurism Color Palette: Neon Pink • Electric Purple • Dark Cyber Backgrounds
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0b4idYqQzs4?si=3LFSU5K2jcoftj3S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
